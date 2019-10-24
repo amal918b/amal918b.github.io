@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.8f992f31.chunk.css",
-    "main.js": "/myapp/static/js/main.1e6f72d2.chunk.js",
-    "main.js.map": "/myapp/static/js/main.1e6f72d2.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.18b17f5d.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.18b17f5d.js.map",
-    "static/css/2.11f871ab.chunk.css": "/myapp/static/css/2.11f871ab.chunk.css",
-    "static/js/2.10421398.chunk.js": "/myapp/static/js/2.10421398.chunk.js",
-    "static/js/2.10421398.chunk.js.map": "/myapp/static/js/2.10421398.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.862e843b412bc966722710daf62f74f2.js": "/myapp/precache-manifest.862e843b412bc966722710daf62f74f2.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/2.11f871ab.chunk.css.map": "/myapp/static/css/2.11f871ab.chunk.css.map",
-    "static/css/main.8f992f31.chunk.css.map": "/myapp/static/css/main.8f992f31.chunk.css.map"
+    "main.css": "/weatherapp/static/css/main.8f992f31.chunk.css",
+    "main.js": "/weatherapp/static/js/main.b94bfcf2.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.b94bfcf2.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.fed0f71d.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.fed0f71d.js.map",
+    "static/css/2.11f871ab.chunk.css": "/weatherapp/static/css/2.11f871ab.chunk.css",
+    "static/js/2.10421398.chunk.js": "/weatherapp/static/js/2.10421398.chunk.js",
+    "static/js/2.10421398.chunk.js.map": "/weatherapp/static/js/2.10421398.chunk.js.map",
+    "index.html": "/weatherapp/index.html",
+    "precache-manifest.04b4b0caad38922c7761ff1af551a171.js": "/weatherapp/precache-manifest.04b4b0caad38922c7761ff1af551a171.js",
+    "service-worker.js": "/weatherapp/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/weatherapp/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.8f992f31.chunk.css.map": "/weatherapp/static/css/main.8f992f31.chunk.css.map"
   }
 }
